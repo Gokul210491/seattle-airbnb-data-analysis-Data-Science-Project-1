@@ -13,6 +13,7 @@ This project explores Airbnb listings.csv data for Seattle using Python, Pandas,
   - Q5: Do more amenities mean higher price?
 - [Conclusion](#conclusion)
 - [Key Learnings](Key-Learnings)
+- [License](License)
 - [Acknowledgements](#Acknowledgements)
   
 ### introduction
@@ -77,6 +78,9 @@ I cleaned the data by,
 - Practiced data wrangling and cleaning with real-world data.
 - Applied grouped visualizations to draw business insights.
 - Improved understanding of feature-price relationships in a sharing economy.
+  
+### License
+- This project is licensed under the MIT License – see the [License](License) file for details.
 
 ### Acknowledgements
 - Udacity for the project framework
