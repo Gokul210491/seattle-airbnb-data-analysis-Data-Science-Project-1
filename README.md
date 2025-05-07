@@ -31,13 +31,13 @@ This analysis was completed as part of my Udacity Data Science Nanodegree using 
 
 4. Data Preparation
 I cleaned the data by:
-Removing symbols like $ and , from the price column.
-Filling missing values in numerical and categorical columns.
-Parsing amenities into a countable format.
-Dropping unnecessary or redundant columns.
+- Removing symbols like $ and , from the price column.
+- Filling missing values in numerical and categorical columns.
+- Parsing amenities into a countable format.
+- Dropping unnecessary or redundant columns.
 
 5. Data Analysis & Visualization
-I explored five key questions using pandas, matplotlib, and seaborn.
+- I explored five key questions using pandas, matplotlib, and seaborn.
 
 ### Technologies Used
 - Python
