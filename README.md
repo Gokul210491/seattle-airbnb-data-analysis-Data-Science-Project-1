@@ -7,10 +7,10 @@ This project explores Airbnb listings.csv data for Seattle using Python, Pandas,
 - [Technologies Used](#Technologies-Used)
 - [Business Questions](#business-questions)
   - Q1: What is the average Airbnb price by neighborhood?
-  - [Q2: How do bedrooms and bathrooms affect price?]
-  - [Q3: Does host response time influence pricing?]
-  - [Q4: What are the most common amenities?]
-  - [Q5: Do more amenities mean higher price?]
+  - Q2: How do bedrooms and bathrooms affect price?
+  - Q3: Does host response time influence pricing?
+  - Q4: What are the most common amenities?
+  - Q5: Do more amenities mean higher price?
 - [Conclusion](#conclusion)
 - [Key Learnings](Key-Learnings)
 - [Acknowledgements](#Acknowledgements)
@@ -29,11 +29,11 @@ This analysis was completed as part of my Udacity Data Science Nanodegree using 
 - I used the listings.csv dataset from the Seattle Airbnb Open Data. It includes rich details like pricing, host behavior, amenities, and location.
 
 **3. Data Preparation**
-I cleaned the data by:
-- Removing symbols like $ and, from the price column.
-- Filling missing values in numerical and categorical columns.
-- Parsing amenities into a countable format.
-- Dropping unnecessary or redundant columns.
+  I cleaned the data by:
+  - Removing symbols like $ and, from the price column.
+  - Filling missing values in numerical and categorical columns.
+  - Parsing amenities into a countable format.
+  - Dropping unnecessary or redundant columns.
 
 **4. Data Analysis & Visualization**
 - I explored five key questions using pandas, matplotlib, and seaborn.
