@@ -4,15 +4,16 @@ This project explores Airbnb listings.csv data for Seattle using Python, Pandas,
 ## 📋 Table of Contents
 - [Introduction](#introduction)
 - [CRISP-DM Framework](#crisp-dm-framework)
-- [Technologies Used](#Technologies Used)
+- [Technologies Used](#Technologies-Used)
 - [Business Questions](#business-questions)
-  - [Q1: What is the average Airbnb price by neighborhood?]
+  - Q1: What is the average Airbnb price by neighborhood?
   - [Q2: How do bedrooms and bathrooms affect price?]
   - [Q3: Does host response time influence pricing?]
   - [Q4: What are the most common amenities?]
   - [Q5: Do more amenities mean higher price?]
 - [Conclusion](#conclusion)
-- [Acknowledgements](#acknowledgements)
+- [Key Learnings](Key-Learnings)
+- [Acknowledgements](#Acknowledgements)
   
 ### introduction
 Airbnb has revolutionized short-term rentals around the world, and Seattle is no exception. With thousands of listings to choose from, travelers and hosts alike are curious about what drives Airbnb prices. In this project, I used real Seattle Airbnb data to uncover key patterns that influence listing prices.
@@ -37,7 +38,7 @@ I cleaned the data by:
 **4. Data Analysis & Visualization**
 - I explored five key questions using pandas, matplotlib, and seaborn.
 
-### Technologies Used
+### Technologies-Used
 - Python
 - Pandas, Matplotlib, Seaborn
 - Jupyter Notebook
@@ -72,12 +73,12 @@ I cleaned the data by:
 ### Conclusion
   This analysis revealed how price varies across Seattle neighborhoods and what factors—like space, amenities, and host behavior—contribute to higher Airbnb pricing.
 
-### Key Learnings
+### Key-Learnings
 - Practiced data wrangling and cleaning with real-world data.
 - Applied grouped visualizations to draw business insights.
 - Improved understanding of feature-price relationships in a sharing economy.
 
-### 🙏 Acknowledgements
+### Acknowledgements
 - Udacity for the project framework
 - Airbnb for providing the open dataset
 - OpenAI ChatGPT for project guidance and support
