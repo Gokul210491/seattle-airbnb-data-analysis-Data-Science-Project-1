@@ -1,6 +1,24 @@
-# Seattle Airbnb Analysis: What Makes a Listing Expensive?
+# 🏡 Seattle Airbnb Analysis: What Makes a Listing Expensive?
+This project explores Airbnb listings.csv data for Seattle using Python, Pandas, and Seaborn. The analysis follows the CRISP-DM process and answers business-related questions on pricing, neighborhoods, amenities, and host behavior
 
-This project explores Airbnb listings data for Seattle using Python, Pandas, and Seaborn. The analysis follows the CRISP-DM process and answers business-related questions on pricing, neighborhoods, amenities, and host behavior.
+## 📋 Table of Contents
+- [Introduction](# introduction)
+- [CRISP-DM Framework](#crisp-dm-framework)
+- [Technologies Used](#Technologies Used).
+- [Business Questions](#business-questions)
+  - [Q1: What is the average Airbnb price by neighborhood?](#q1-what-is-the-average-airbnb-price-by-neighborhood)
+  - [Q2: How do bedrooms and bathrooms affect price?](#q2-how-do-bedrooms-and-bathrooms-affect-price)
+  - [Q3: Does host response time influence pricing?](#q3-does-host-response-time-influence-pricing)
+  - [Q4: What are the most common amenities?](#q4-what-are-the-most-common-amenities)
+  - [Q5: Do more amenities mean higher price?](#q5-do-more-amenities-mean-higher-price)
+- [Conclusion](#conclusion)
+- [Licensing](#licensing)
+- [Authors](#authors)
+- [Acknowledgements](#acknowledgements)
+- 
+- # introduction
+Airbnb has revolutionized short-term rentals around the world, and Seattle is no exception. With thousands of listings to choose from, travelers and hosts alike are curious about what drives Airbnb prices. In this project, I used real Seattle Airbnb data to uncover key patterns that influence listing prices.
+This analysis was completed as part of my Udacity Data Science Nanodegree using the CRISP-DM methodology. Let’s explore what insights I discovered.
 
 ## Technologies Used
 - Python
