@@ -16,7 +16,7 @@ This project explores Airbnb listings.csv data for Seattle using Python, Pandas,
 - [Authors](#authors)
 - [Acknowledgements](#acknowledgements)
 - 
-### introduction
+### introductionn
 Airbnb has revolutionized short-term rentals around the world, and Seattle is no exception. With thousands of listings to choose from, travelers and hosts alike are curious about what drives Airbnb prices. In this project, I used real Seattle Airbnb data to uncover key patterns that influence listing prices.
 This analysis was completed as part of my Udacity Data Science Nanodegree using the CRISP-DM methodology. Let’s explore what insights I discovered.
 
