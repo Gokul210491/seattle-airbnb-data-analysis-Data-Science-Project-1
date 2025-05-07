@@ -46,19 +46,44 @@ This analysis was completed as part of my Udacity Data Science Nanodegree using 
 
 ### business-questions
 - #### What is the average Airbnb price by neighborhood?
+  Some Seattle neighborhoods like Queen Anne and Capitol Hill have significantly higher average prices, suggesting popularity and proximity to key attractions
+
   This chart shows the average price distribution by neighborhood, helping us identify the most expensive and most affordable areas for Airbnb rentals.
   ![The Average Price](Image/Question-1.png)
 - #### How do bedrooms and bathrooms affect price?
+  As expected, listings with more bedrooms and bathrooms generally charge higher prices, showing a positive correlation between space and cost.
+
   This analysis explores how listing prices vary depending on the number of bedrooms and bathrooms, helping understand property size vs price.
   ![Affect Price](Image/Question-2.jfif)
 - #### Does host response time influence pricing?
+  Hosts who respond within an hour tend to charge more, indicating that prompt communication may reflect professionalism and higher listing value.
+
   This visualization investigates whether quicker response times by hosts correlate with higher Airbnb prices.
   ![Time influence pricing](Image/Question-3.jfif)
 - #### What are the most common amenities?
+  The most common amenities include WiFi, kitchen access, heating, and essentials. These are expected features in most listings.
+  
   This chart identifies the most frequently available amenities in Seattle Airbnb listings, such as WiFi, kitchen, heating, etc.
   ![common amenities](Image/Question-4.jfif)
 - #### Do more amenities mean higher price?
+  Yes. Listings offering more amenities generally charge more, though there's a saturation point beyond which the price increase is minimal.
+  
   This analysis shows how the number of amenities in a listing affects its price, helping understand if "more features = more cost".
  ![more amenities mean higher prices](Image/Question-5.jfif)
+
+### Conclusion
+  This analysis revealed how price varies across Seattle neighborhoods and what factors—like space, amenities, and host behavior—contribute to higher Airbnb pricing.
+
+### Key Learnings
+- Practiced data wrangling and cleaning with real-world data.
+- Applied grouped visualizations to draw business insights.
+- Improved understanding of feature-price relationships in a sharing economy.
+- 
+### 🙏 Acknowledgements
+- Udacity for the project framework
+- Airbnb for providing the open dataset
+- OpenAI ChatGPT for project guidance and support
+
+
 
 
