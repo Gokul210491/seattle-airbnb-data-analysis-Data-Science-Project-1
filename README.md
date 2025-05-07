@@ -31,7 +31,7 @@ This analysis was completed as part of my Udacity Data Science Nanodegree using 
 
 4. Data Preparation
 **I cleaned the data by:**
-- Removing symbols like $ and , from the price column.
+- Removing symbols like $ and, from the price column.
 - Filling missing values in numerical and categorical columns.
 - Parsing amenities into a countable format.
 - Dropping unnecessary or redundant columns.
@@ -78,7 +78,7 @@ This analysis was completed as part of my Udacity Data Science Nanodegree using 
 - Practiced data wrangling and cleaning with real-world data.
 - Applied grouped visualizations to draw business insights.
 - Improved understanding of feature-price relationships in a sharing economy.
-- 
+
 ### 🙏 Acknowledgements
 - Udacity for the project framework
 - Airbnb for providing the open dataset
