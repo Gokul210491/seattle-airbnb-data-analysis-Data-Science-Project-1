@@ -89,7 +89,7 @@ I cleaned the data by,
 - OpenAI ChatGPT for project guidance and support
   
 ### Blog-post
--  This analysis is also available in a storytelling format here: [Read on Medium]([https://medium.com/your-post-url](https://medium.com/@gokulthangaraj1991/what-seattles-airbnb-data-reveals-about-prices-hosts-and-amenities-2468c2301489))
+-  This analysis is also available in a storytelling format here: [Read on Medium]([https://medium.com/your-post-url](https://medium.com/@gokulthangaraj1991/what-seattles-airbnb-data-reveals-about-prices-hosts-and-amenities-2468c2301489)
 
 
 
