@@ -15,6 +15,7 @@ This project explores Airbnb listings.csv data for Seattle using Python, Pandas,
 - [Key Learnings](#Key-Learnings)
 - [License](#License)
 - [Acknowledgements](#Acknowledgements)
+- [Blog post](#Blog-post)
   
 ### introduction
 Airbnb has revolutionized short-term rentals around the world, and Seattle is no exception. With thousands of listings to choose from, travelers and hosts alike are curious about what drives Airbnb prices. In this project, I used real Seattle Airbnb data to uncover key patterns that influence listing prices.
@@ -86,6 +87,9 @@ I cleaned the data by,
 - Udacity for the project framework
 - Airbnb for providing the open dataset
 - OpenAI ChatGPT for project guidance and support
+  
+### Blog-post
+-  This analysis is also available in a storytelling format here: [Read on Medium]([https://medium.com/your-post-url](https://medium.com/@gokulthangaraj1991/what-seattles-airbnb-data-reveals-about-prices-hosts-and-amenities-2468c2301489))
 
 
 
