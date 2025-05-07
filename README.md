@@ -21,20 +21,22 @@ Airbnb has revolutionized short-term rentals around the world, and Seattle is no
 This analysis was completed as part of my Udacity Data Science Nanodegree using the CRISP-DM methodology. Let’s explore what insights I discovered.
 
 ### 🧭 CRISP-DM Process
-- 1. Business Understanding
-What makes an Airbnb listing expensive? Are hosts with faster response times able to charge more? Do more amenities mean higher prices?
+1. Business Understanding
+- What makes an Airbnb listing expensive?
+- Are hosts with faster response times able to charge more?
+- Do more amenities mean higher prices?
 
 2. Data Understanding
-I used the listings.csv dataset from the Seattle Airbnb Open Data. It includes rich details like pricing, host behavior, amenities, and location.
+- I used the listings.csv dataset from the Seattle Airbnb Open Data. It includes rich details like pricing, host behavior, amenities, and location.
 
-3. Data Preparation
+4. Data Preparation
 I cleaned the data by:
 Removing symbols like $ and , from the price column.
 Filling missing values in numerical and categorical columns.
 Parsing amenities into a countable format.
 Dropping unnecessary or redundant columns.
 
-4. Data Analysis & Visualization
+5. Data Analysis & Visualization
 I explored five key questions using pandas, matplotlib, and seaborn.
 
 ### Technologies Used
