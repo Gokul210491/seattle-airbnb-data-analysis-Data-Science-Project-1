@@ -1,4 +1,4 @@
-# Seattle Airbnb Data Analysis
+# Seattle Airbnb Analysis: What Makes a Listing Expensive?
 
 This project explores Airbnb listings data for Seattle using Python, Pandas, and Seaborn. The analysis follows the CRISP-DM process and answers business-related questions on pricing, neighborhoods, amenities, and host behavior.
 
