@@ -21,7 +21,7 @@ Airbnb has revolutionized short-term rentals around the world, and Seattle is no
 This analysis was completed as part of my Udacity Data Science Nanodegree using the CRISP-DM methodology. Let’s explore what insights I discovered.
 
 ### 🧭 CRISP-DM Process
-1. Business Understanding
+- 1. Business Understanding
 What makes an Airbnb listing expensive? Are hosts with faster response times able to charge more? Do more amenities mean higher prices?
 
 2. Data Understanding
