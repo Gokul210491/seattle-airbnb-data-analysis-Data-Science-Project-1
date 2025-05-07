@@ -59,12 +59,12 @@ I cleaned the data by,
   Hosts who respond within an hour tend to charge more, indicating that prompt communication may reflect professionalism and higher listing value.
 
   This visualization investigates whether quicker response times by hosts correlate with higher Airbnb prices.
-  ![Time influence pricing](Image/Question-3.jfif)
+  ![Time influence pricing](Image/Question-4.jfif)
 - #### What are the most common amenities?
   The most common amenities include WiFi, kitchen access, heating, and essentials. These are expected features in most listings.
   
   This chart identifies the most frequently available amenities in Seattle Airbnb listings, such as WiFi, kitchen, heating, etc.
-  ![common amenities](Image/Question-4.jfif)
+  ![common amenities](Image/Question-3.jfif)
 - #### Do more amenities mean higher price?
   Yes. Listings offering more amenities generally charge more, though there's a saturation point beyond which the price increase is minimal.
   
