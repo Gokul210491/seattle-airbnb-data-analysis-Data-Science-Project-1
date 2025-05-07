@@ -1,2 +1,2 @@
-# Data-Science-Project-1
+# seattle-airbnb-data-analysis
 Data Science Project-1
