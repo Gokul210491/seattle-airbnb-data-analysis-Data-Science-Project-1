@@ -10,9 +10,9 @@ This project explores Airbnb listings data for Seattle using Python, Pandas, and
 ## Key Questions
 - ### What is the average Airbnb price by neighborhood?
 - This chart shows the average price distribution by neighborhood, helping us identify the most expensive and most affordable areas for Airbnb rentals.
-  [The Average Price](Image/Question-1.png)
+  ![The Average Price](Image/Question-1.png)
 - ### How do bedrooms and bathrooms affect price?
-  [Affect Price](Image/Question-2.jfif)
+  ![Affect Price](Image/Question-2.jfif)
 - Does host response time influence pricing?
 - What are the most common amenities?
 - Do more amenities mean higher price?
